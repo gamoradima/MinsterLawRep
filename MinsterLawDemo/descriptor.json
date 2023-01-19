@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "be4b3bbe-4da5-52a6-7141-13f087936cd8",
+    "Name": "MinsterLawDemo",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1674042028000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/MinsterLawDemo.csproj",
+    "Description": "Demo package for Minster Law development training",
+    "DependsOn": [
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      }
+    ]
+  }
+}
