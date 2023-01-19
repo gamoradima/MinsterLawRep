@@ -1,0 +1,104 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0fa5b644-4b27-4408-9b6b-73065ec34a84"
+        },
+        {
+          "SchemaColumnUId": "0e3deff0-062f-b656-f2f8-5d9bd2bd3b15",
+          "Value": "A"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "1. Apartment"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "46a9c6f4-ac34-44cb-b9ea-acdd900025e3"
+        },
+        {
+          "SchemaColumnUId": "0e3deff0-062f-b656-f2f8-5d9bd2bd3b15",
+          "Value": "G"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "5. Garage"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7e9f6f0d-4dfd-4a81-84a1-3b56c337e965"
+        },
+        {
+          "SchemaColumnUId": "0e3deff0-062f-b656-f2f8-5d9bd2bd3b15",
+          "Value": "P"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "3. Parking lot"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9d9d8c69-1258-4313-8a3f-6859c11ded56"
+        },
+        {
+          "SchemaColumnUId": "0e3deff0-062f-b656-f2f8-5d9bd2bd3b15",
+          "Value": "H"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "2. House"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "e2c11585-9070-495e-9ea6-f51ed5006dfe"
+        },
+        {
+          "SchemaColumnUId": "0e3deff0-062f-b656-f2f8-5d9bd2bd3b15",
+          "Value": "O"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "Value": "4. Office"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": ""
+        }
+      ]
+    }
+  ]
+}
